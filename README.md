@@ -1,6 +1,6 @@
 # Olá, eu sou o João! 👋
 
-Desenvolvedor focado em aprimorar minhas habilidades em desenvolvimento de software e jogos. Sempre buscando aprender novas ferramentas e construir projetos desafiadores.
+Desenvolvedor focado em aprimorar minhas habilidades em desenvolvimento de aplicações web e hobbie em desenvolvimento de jogos. Sempre buscando aprender novas ferramentas e construir projetos desafiadores.
 
 ---
 
@@ -16,11 +16,7 @@ Desenvolvedor focado em aprimorar minhas habilidades em desenvolvimento de softw
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  ![JavaScript](https://shields.io) ![Unity](https://shields.io) ![VS Code](https://shields.io) ![Visual Studio](https://shields.io) ![C#](https://shields.io)
 </div>
 
 ---
