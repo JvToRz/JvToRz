@@ -7,8 +7,8 @@ Desenvolvedor focado em aprimorar minhas habilidades em desenvolvimento de aplic
 ### 🚀 Sobre mim
 
 - 🎮 Desenvolvedor no projeto **Guardiões da Bandeira** (*GameDevQuest*).
-- 🏆 Participando ativamente do programa **Level 1 da CWI**.
-- 🎯 **Foco atual:** Aprofundar e consolidar meus conhecimentos em **TypeScript**.
+- 🏆 Participando ativamente do programa **Level 2 da CWI**.
+- 🎯 **Foco atual:** Aprofundar e consolidar meus conhecimentos em **TypeScript e JAVA**.
 - 🎧 Nos momentos livres, você me encontra ouvindo música, maratonando séries ou jogando.
 
 ---
@@ -21,6 +21,7 @@ Desenvolvedor focado em aprimorar minhas habilidades em desenvolvimento de aplic
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white alt="JAVA" />
 </div>
 
 ---
